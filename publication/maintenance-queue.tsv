@@ -1,0 +1,4 @@
+device_id	model	zone	criticality	latest_check	latest_status
+DV-103	Fjord freezer	ARCHIVE	high	CK-107	WARN
+DV-105	Tundra relay	LAB-B	medium	CK-109	FAIL
+DV-104	Nival camera	FIELD	low	CK-105	WARN
