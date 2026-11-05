@@ -1,0 +1,6 @@
+device_id,model,zone,criticality
+DV-101,Borealis sensor,LAB-A,high
+DV-102,Aurora pump,FIELD,medium
+DV-103,Fjord freezer,ARCHIVE,high
+DV-104,Nival camera,FIELD,low
+DV-105,Tundra relay,LAB-B,medium
